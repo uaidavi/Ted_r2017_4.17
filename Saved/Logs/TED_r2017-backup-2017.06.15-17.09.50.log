@@ -1,0 +1,529 @@
+﻿Log file open, 05/14/17 21:22:54
+LogInit:Display: Running engine for game: TED_r2017
+LogPlatformFile: Not using cached read wrapper
+LogInit:Display: RandInit(-1131715486) SRandInit(-1131715486).
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 1 sets of task threads.
+LogStats: Stats thread started at 0.378335
+LogPluginManager: Loaded Plugin Paper2D, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/2D/Paper2D/Paper2D.uplugin
+LogPluginManager: Loaded Plugin AdvancedSessions, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/AdvancedSessions/AdvancedSessions.uplugin
+LogPluginManager: Loaded Plugin LightPropagationVolume, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Blendables/LightPropagationVolume/LightPropagationVolume.uplugin
+LogPluginManager: Loaded Plugin BlankPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin
+LogPluginManager: Loaded Plugin CodeLiteSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/CodeLiteSourceCodeAccess/CodeLiteSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin GitSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/GitSourceControl/GitSourceControl.uplugin
+LogPluginManager: Loaded Plugin KDevelopSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/KDevelopSourceCodeAccess/KDevelopSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin NullSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/NullSourceCodeAccess/NullSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin OneSkyLocalizationService, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/OneSkyLocalizationService/OneSkyLocalizationService.uplugin
+LogPluginManager: Loaded Plugin PerforceSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin
+LogPluginManager: Loaded Plugin SubversionSourceControl, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/SubversionSourceControl/SubversionSourceControl.uplugin
+LogPluginManager: Loaded Plugin UObjectPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/UObjectPlugin/UObjectPlugin.uplugin
+LogPluginManager: Loaded Plugin VisualStudioSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/VisualStudioSourceCodeAccess/VisualStudioSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin XCodeSourceCodeAccess, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Developer/XCodeSourceCodeAccess/XCodeSourceCodeAccess.uplugin
+LogPluginManager: Loaded Plugin EpicSurvey, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/EpicSurvey/EpicSurvey.uplugin
+LogPluginManager: Loaded Plugin MacGraphicsSwitching, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MacGraphicsSwitching/MacGraphicsSwitching.uplugin
+LogPluginManager: Loaded Plugin MobileLauncherProfileWizard, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/MobileLauncherProfileWizard/MobileLauncherProfileWizard.uplugin
+LogPluginManager: Loaded Plugin PluginBrowser, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/PluginBrowser/PluginBrowser.uplugin
+LogPluginManager: Loaded Plugin SpeedTreeImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SpeedTreeImporter/SpeedTreeImporter.uplugin
+LogPluginManager: Loaded Plugin SuperSearchEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Editor/SuperSearchEditor/SuperSearchEditor.uplugin
+LogPluginManager: Loaded Plugin AlembicImporter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/AlembicImporter/AlembicImporter.uplugin
+LogPluginManager: Loaded Plugin BlueprintStats, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/BlueprintStats/BlueprintStats.uplugin
+LogPluginManager: Loaded Plugin CharacterAI, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CharacterAI/CharacterAI.uplugin
+LogPluginManager: Loaded Plugin CodeEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeEditor/CodeEditor.uplugin
+LogPluginManager: Loaded Plugin CodeView, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/CodeView/CodeView.uplugin
+LogPluginManager: Loaded Plugin HTML5Networking, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/HTML5Networking/HTML5Networking.uplugin
+LogPluginManager: Loaded Plugin LiveEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/LiveEditor/LiveEditor.uplugin
+LogPluginManager: Loaded Plugin OSVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/OSVR/OSVR.uplugin
+LogPluginManager: Loaded Plugin Phya, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/Phya/Phya.uplugin
+LogPluginManager: Loaded Plugin SignificanceManager, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SignificanceManager/SignificanceManager.uplugin
+LogPluginManager: Loaded Plugin SimpleHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/SimpleHMD/SimpleHMD.uplugin
+LogPluginManager: Loaded Plugin StereoPanorama, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StereoPanorama/StereoPanorama.uplugin
+LogPluginManager: Loaded Plugin StructBox, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Experimental/StructBox/StructBox.uplugin
+LogPluginManager: Loaded Plugin AndroidMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AndroidMedia/AndroidMedia.uplugin
+LogPluginManager: Loaded Plugin AvfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/AvfMedia/AvfMedia.uplugin
+LogPluginManager: Loaded Plugin MediaPlayerEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/MediaPlayerEditor/MediaPlayerEditor.uplugin
+LogPluginManager: Loaded Plugin WmfMedia, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Media/WmfMedia/WmfMedia.uplugin
+LogPluginManager: Loaded Plugin MessagingDebugger, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/MessagingDebugger/MessagingDebugger.uplugin
+LogPluginManager: Loaded Plugin TcpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/TcpMessaging/TcpMessaging.uplugin
+LogPluginManager: Loaded Plugin UdpMessaging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Messaging/UdpMessaging/UdpMessaging.uplugin
+LogPluginManager: Loaded Plugin LevelSequenceEditor, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/LevelSequenceEditor/LevelSequenceEditor.uplugin
+LogPluginManager: Loaded Plugin MatineeToLevelSequence, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/MovieScene/MatineeToLevelSequence/MatineeToLevelSequence.uplugin
+LogPluginManager: Loaded Plugin NetcodeUnitTest, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/NetcodeUnitTest.uplugin
+LogPluginManager: Loaded Plugin NUTUnrealEngine4, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/NUTUnrealEngine4.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemGooglePlay, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/OnlineSubsystemGooglePlay.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemIOS, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/IOS/OnlineSubsystemIOS/OnlineSubsystemIOS.uplugin
+LogPluginManager: Loaded Plugin OnlineFramework, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineFramework/OnlineFramework.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystem, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystem/OnlineSubsystem.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemAmazon, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemAmazon/OnlineSubsystemAmazon.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemFacebook, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemFacebook/OnlineSubsystemFacebook.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemNull, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemNull/OnlineSubsystemNull.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemOculus, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemOculus/OnlineSubsystemOculus.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemSteam, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemSteam/OnlineSubsystemSteam.uplugin
+LogPluginManager: Loaded Plugin OnlineSubsystemUtils, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Online/OnlineSubsystemUtils/OnlineSubsystemUtils.uplugin
+LogPluginManager: Loaded Plugin IOSTapJoy, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Advertising/IOSTapJoy/IOSTapJoy.uplugin
+LogPluginManager: Loaded Plugin AnalyticsBlueprintLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsBlueprintLibrary/AnalyticsBlueprintLibrary.uplugin
+LogPluginManager: Loaded Plugin AnalyticsMulticast, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/AnalyticsMulticast/AnalyticsMulticast.uplugin
+LogPluginManager: Loaded Plugin Apsalar, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Apsalar/Apsalar.uplugin
+LogPluginManager: Loaded Plugin FileLogging, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/FileLogging/FileLogging.uplugin
+LogPluginManager: Loaded Plugin Flurry, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Analytics/Flurry/Flurry.uplugin
+LogPluginManager: Loaded Plugin AndroidDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidDeviceProfileSelector/AndroidDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin AndroidMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AndroidMoviePlayer/AndroidMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin AppleMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/AppleMoviePlayer/AppleMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ArchVisCharacter, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ArchVisCharacter/ArchVisCharacter.uplugin
+LogPluginManager: Loaded Plugin CableComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CableComponent/CableComponent.uplugin
+LogPluginManager: Loaded Plugin CustomMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/CustomMeshComponent/CustomMeshComponent.uplugin
+LogPluginManager: Loaded Plugin ExampleDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ExampleDeviceProfileSelector/ExampleDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin GearVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GearVR/GearVR.uplugin
+LogPluginManager: Loaded Plugin GoogleVRController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRController/GoogleVRController.uplugin
+LogPluginManager: Loaded Plugin GoogleVRHMD, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/GoogleVRHMD.uplugin
+LogPluginManager: Loaded Plugin IOSDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/IOSDeviceProfileSelector/IOSDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LeapMotion, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LeapMotion/LeapMotion.uplugin
+LogPluginManager: Loaded Plugin LinuxDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LinuxDeviceProfileSelector/LinuxDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin LiveEditorListenServer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/LiveEditorListenServer/LiveEditorListenServer.uplugin
+LogPluginManager: Loaded Plugin OculusAudio, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusAudio/OculusAudio.uplugin
+LogPluginManager: Loaded Plugin OculusInput, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusInput/OculusInput.uplugin
+LogPluginManager: Loaded Plugin OculusLibrary, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusLibrary/OculusLibrary.uplugin
+LogPluginManager: Loaded Plugin OculusRift, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/OculusRift/OculusRift.uplugin
+LogPluginManager: Loaded Plugin Oodle, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/PacketHandlers/CompressionComponents/Oodle/Oodle.uplugin
+LogPluginManager: Loaded Plugin ProceduralMeshComponent, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/ProceduralMeshComponent/ProceduralMeshComponent.uplugin
+LogPluginManager: Loaded Plugin SoundMod, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundMod/SoundMod.uplugin
+LogPluginManager: Loaded Plugin SoundVisualizations, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/SoundVisualizations/SoundVisualizations.uplugin
+LogPluginManager: Loaded Plugin SteamController, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamController/SteamController.uplugin
+LogPluginManager: Loaded Plugin SteamVR, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/Steam/SteamVR/SteamVR.uplugin
+LogPluginManager: Loaded Plugin WebBrowserWidget, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WebBrowserWidget/WebBrowserWidget.uplugin
+LogPluginManager: Loaded Plugin WindowsDeviceProfileSelector, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsDeviceProfileSelector/WindowsDeviceProfileSelector.uplugin
+LogPluginManager: Loaded Plugin WindowsMoviePlayer, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Runtime/WindowsMoviePlayer/WindowsMoviePlayer.uplugin
+LogPluginManager: Loaded Plugin ScriptPlugin, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/ScriptPlugin/ScriptPlugin.uplugin
+LogPluginManager: Loaded Plugin SlateRemote, From C:/Program Files (x86)/Epic Games/4.13/Engine/Plugins/Slate/SlateRemote/SlateRemote.uplugin
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with WinSSL
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogVoice:Warning: Failed to initialize voice interface
+LogInit: Build: ++UE4+Release-4.13-CL-3172292
+LogInit: Engine Version: 4.13.2-3172292+++UE4+Release-4.13
+LogInit: Compatible Engine Version: 4.13.0-3106830+++UE4+Release-4.13
+LogInit: Net CL: 3172292
+LogDevObjectVersion: Number of dev versions registered: 13
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 5
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 1
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 6
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 12
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 4
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 0
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogInit: Compiled (64-bit): Oct 24 2016 14:29:06
+LogInit: Compiled with Visual C++: 19.00.23026.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.13
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files (x86)/Epic Games/4.13/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.05.15-00.22.55:016][  0]LogInit: Selected Device Profile: [Windows]
+[2017.05.15-00.22.55:016][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.05.15-00.22.55:039][  0]LogInit: Computer: DESKTOP-BU05T8C
+[2017.05.15-00.22.55:039][  0]LogInit: User: daviu
+[2017.05.15-00.22.55:039][  0]LogInit: CPU Page size=65536, Cores=4
+[2017.05.15-00.22.55:039][  0]LogInit: High frequency timer resolution =3.320341 MHz
+[2017.05.15-00.22.55:039][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.05.15-00.22.55:039][  0]LogMemory: Platform Memory Stats for Windows
+[2017.05.15-00.22.55:040][  0]LogMemory: Process Physical Memory: 258.17 MB used, 258.17 MB peak
+[2017.05.15-00.22.55:040][  0]LogMemory: Process Virtual Memory: 260.20 MB used, 260.20 MB peak
+[2017.05.15-00.22.55:040][  0]LogMemory: Physical Memory: 5567.78 MB used, 8076.38 MB total
+[2017.05.15-00.22.55:040][  0]LogMemory: Virtual Memory: 625.43 MB used, 134217728.00 MB total
+[2017.05.15-00.22.55:111][  0]LogTextLocalizationManager: No specific translations for ('en-US') exist, so ('en') translations will be used.
+[2017.05.15-00.23.01:118][  0]LogD3D11RHI: D3D11 adapters:
+[2017.05.15-00.23.01:201][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2017.05.15-00.23.01:201][  0]LogD3D11RHI:       6100/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.05.15-00.23.01:618][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4000' (Feature Level 11_0)
+[2017.05.15-00.23.01:618][  0]LogD3D11RHI:       32/0/1760 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.05.15-00.23.01:619][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.05.15-00.23.01:619][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.05.15-00.23.01:619][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.05.15-00.23.01:667][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.05.15-00.23.01:667][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2017.05.15-00.23.01:667][  0]LogWindows: EnumDisplayDevices:
+[2017.05.15-00.23.01:668][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2017.05.15-00.23.01:668][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.05.15-00.23.01:669][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.05.15-00.23.01:669][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.05.15-00.23.01:670][  0]LogWindows:    4. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.05.15-00.23.01:671][  0]LogWindows:    5. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.05.15-00.23.01:671][  0]LogWindows:    6. 'Intel(R) HD Graphics 4000' (P:0 D:0)
+[2017.05.15-00.23.01:672][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.05.15-00.23.01:672][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2017.05.15-00.23.01:672][  0]LogD3D11RHI:   Driver Version: 376.53 (internal:21.21.13.7653, unified:376.53)
+[2017.05.15-00.23.01:672][  0]LogD3D11RHI:      Driver Date: 12-29-2016
+[2017.05.15-00.23.01:673][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.05.15-00.23.01:702][  0]LogD3D11RHI: Async texture creation enabled
+[2017.05.15-00.23.02:499][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 4)
+[2017.05.15-00.23.02:730][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../../Users/daviu/Documents/Ted_r2017_1/Intermediate/Shaders/WorkingDirectory/5932/).
+[2017.05.15-00.23.02:731][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/daviu/AppData/Local/Temp/UnrealShaderWorkingDir/49824D824D8290EBF21F979C70714E4D/'.
+[2017.05.15-00.23.02:759][  0]LogShaderCompilers:Display: Using Local Shader Compiler.
+[2017.05.15-00.23.16:699][  0]LogTemp:Display: Loaded TP AllDesktopTargetPlatform
+[2017.05.15-00.23.16:721][  0]LogTemp:Display: Loaded TP WindowsClientTargetPlatform
+[2017.05.15-00.23.16:737][  0]LogTemp:Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.05.15-00.23.16:752][  0]LogTemp:Display: Loaded TP WindowsServerTargetPlatform
+[2017.05.15-00.23.16:764][  0]LogTemp:Display: Loaded TP WindowsTargetPlatform
+[2017.05.15-00.23.16:788][  0]LogTemp:Display: Loaded TP AndroidTargetPlatform
+[2017.05.15-00.23.16:797][  0]LogTemp:Display: Loaded TP Android_ASTCTargetPlatform
+[2017.05.15-00.23.16:805][  0]LogTemp:Display: Loaded TP Android_ATCTargetPlatform
+[2017.05.15-00.23.16:814][  0]LogTemp:Display: Loaded TP Android_DXTTargetPlatform
+[2017.05.15-00.23.16:823][  0]LogTemp:Display: Loaded TP Android_ETC1TargetPlatform
+[2017.05.15-00.23.16:832][  0]LogTemp:Display: Loaded TP Android_ETC2TargetPlatform
+[2017.05.15-00.23.16:849][  0]LogTemp:Display: Loaded TP Android_MultiTargetPlatform
+[2017.05.15-00.23.16:849][  0]LogTemp:Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.05.15-00.23.16:852][  0]LogTemp:Display: Loaded TP HTML5TargetPlatform
+[2017.05.15-00.23.17:015][  0]LogTemp:Display: Loaded TP IOSTargetPlatform
+[2017.05.15-00.23.17:029][  0]LogTemp:Display: Loaded TP TVOSTargetPlatform
+[2017.05.15-00.23.17:063][  0]LogTemp:Display: Loaded TP LinuxClientTargetPlatform
+[2017.05.15-00.23.17:096][  0]LogTemp:Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.05.15-00.23.17:117][  0]LogTemp:Display: Loaded TP LinuxServerTargetPlatform
+[2017.05.15-00.23.17:148][  0]LogTemp:Display: Loaded TP LinuxTargetPlatform
+[2017.05.15-00.23.17:148][  0]LogTargetPlatformManager:Display: Building Assets For Windows
+[2017.05.15-00.23.18:405][  0]LogDerivedDataCache:Display: Max Cache Size: 512 MB
+[2017.05.15-00.23.19:228][  0]LogDerivedDataCache: Loaded boot cache 0.79s 62MB C:/Users/daviu/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.05.15-00.23.19:228][  0]LogDerivedDataCache:Display: Loaded Boot cache: C:/Users/daviu/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc
+[2017.05.15-00.23.19:228][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/daviu/Documents/Ted_r2017_1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.05.15-00.23.19:228][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.05.15-00.23.19:228][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/daviu/Documents/Ted_r2017_1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.05.15-00.23.19:228][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.05.15-00.23.19:342][  0]LogDerivedDataCache:Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.05.15-00.23.19:380][  0]LogDerivedDataCache: Using Local data cache path C:/Users/daviu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.05.15-00.23.30:269][  0]LogInit: Selected Device Profile: [Windows]
+[2017.05.15-00.23.30:849][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.05.15-00.23.31:553][  0]LogMeshUtilities: No automatic mesh reduction module available
+[2017.05.15-00.23.31:553][  0]LogMeshUtilities: No automatic mesh merging module available
+[2017.05.15-00.23.31:553][  0]LogMeshUtilities: No distributed automatic mesh merging module available
+[2017.05.15-00.23.34:613][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.05.15-00.23.42:326][  0]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: ted_r2017, ProjectVersion: , EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2909711685
+[2017.05.15-00.23.42:664][  0]LogAssetRegistry: FAssetRegistry took 0.0295 seconds to start up
+[2017.05.15-00.23.43:346][  0]LogPackageLocalizationCache: Processed 3 localized package path(s) for 2 prioritized culture(s) in 0.540560 seconds
+[2017.05.15-00.23.43:379][  0]LogUObjectArray: 29778 objects as part of root set at end of initial load.
+[2017.05.15-00.23.43:379][  0]LogUObjectAllocator: 6125448 out of 0 bytes used by permanent object pool.
+[2017.05.15-00.23.43:379][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.05.15-00.23.58:500][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.05.15-00.23.58:500][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.05.15-00.24.24:102][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.05.15-00.24.24:223][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.05.15-00.24.27:517][  0]SourceControl: Info Source control is disabled
+[2017.05.15-00.24.28:138][  0]SourceControl: Info Source control is disabled
+[2017.05.15-00.24.28:315][  0]SourceControl: Info Source control is disabled
+[2017.05.15-00.24.28:418][  0]SourceControl: Info Source control is disabled
+[2017.05.15-00.24.32:359][  0]LogEngine: Initializing Engine...
+[2017.05.15-00.24.32:390][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.05.15-00.24.34:313][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.05.15-00.24.34:624][  0]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.05.15-00.24.34:777][  0]LogInit: FAudioDevice initialized.
+[2017.05.15-00.24.34:838][  0]LogDerivedDataCache: Saved boot cache 0.06s 62MB C:/Users/daviu/AppData/Local/UnrealEngine/4.13/DerivedDataCache/Boot.ddc.
+[2017.05.15-00.24.34:849][  0]LogInit: Texture streaming: Enabled
+[2017.05.15-00.24.35:740][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.05.15-00.24.35:740][  0]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.05.15-00.24.36:923][  0]LogInit: Transaction tracking system initialized
+[2017.05.15-00.24.45:321][  0]BlueprintLog: New page: Editor Load
+[2017.05.15-00.24.50:832][  0]LocalizationService: Info Localization service is disabled
+[2017.05.15-00.24.54:378][  0]LogConsoleResponse:Display: 
+[2017.05.15-00.25.02:170][  0]LogCook:Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.05.15-00.25.02:170][  0]LogCook:Display: Mobile HDR setting 1
+[2017.05.15-00.25.05:662][  0]LogFileCache: Scanning file cache for directory 'C:/Users/daviu/Documents/Ted_r2017_1/Content/' took 1.23s
+[2017.05.15-00.25.15:922][  0]SourceControl: Info Source control is disabled
+[2017.05.15-00.25.16:514][  0]Cmd: MAP LOAD FILE="../../../../../../Users/daviu/Documents/Ted_r2017_1/Content/TED_Specific/Multiplayer_Stuff/MainMenu_Level.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.05.15-00.25.17:205][  0]LightingResults: New page: Lighting Build
+[2017.05.15-00.25.18:333][  0]MapCheck: New page: Map Check
+[2017.05.15-00.25.18:333][  0]LightingResults: New page: Lighting Build
+[2017.05.15-00.25.51:485][  0]LogAIModule: Creating AISystem for world MainMenu_Level
+[2017.05.15-00.25.52:288][  0]LogEditorServer: Finished looking for orphan Actors (0.027 secs)
+[2017.05.15-00.25.52:533][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.05.15-00.25.52:728][  0]MapCheck: Info Map check complete: 0 Error(s), 0 Warning(s), took 188.026ms to complete.
+[2017.05.15-00.25.52:728][  0]LogFileHelpers: Loading map 'MainMenu_Level' took 36.483
+[2017.05.15-00.26.01:392][  0]LogCollectionManager: Loaded 1 collections in 0.007043 seconds
+[2017.05.15-00.26.02:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/daviu/Documents/Ted_r2017_1/Saved/Collections/' took 0.01s
+[2017.05.15-00.26.02:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/daviu/Documents/Ted_r2017_1/Content/Developers/daviu/Collections/' took 0.01s
+[2017.05.15-00.26.02:610][  0]LogFileCache: Scanning file cache for directory 'C:/Users/daviu/Documents/Ted_r2017_1/Content/Collections/' took 0.01s
+[2017.05.15-00.26.02:610][  0]LogCollectionManager: Rebuilt the GUID cache for 1 collections in 0.000011 seconds
+[2017.05.15-00.26.02:610][  0]LogCollectionManager: Rebuilt the hierarchy cache for 1 collections in 0.000001 seconds
+[2017.05.15-00.26.02:763][  0]LogContentBrowser: Native class hierarchy populated in 0.0637 seconds. Added 2160 classes and 418 folders.
+[2017.05.15-00.26.03:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.05.15-00.26.03:370][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.05.15-00.26.03:435][  0]LogContentBrowser: Native class hierarchy updated for 'GameplayTags' in 0.0005 seconds. Added 12 classes and 0 folders.
+[2017.05.15-00.26.03:551][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.05.15-00.26.10:108][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2017.05.15-00.26.10:492][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0012 seconds. Added 1 classes and 2 folders.
+[2017.05.15-00.26.16:662][  0]LogCrashTracker: Crashtracker disabled due to settings.
+[2017.05.15-00.26.18:381][  0]LogUObjectGlobals:Warning: Failed to find object 'Class None.'
+[2017.05.15-00.26.19:315][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0010 seconds. Added 1 classes and 2 folders.
+[2017.05.15-00.26.19:316][  0]LogLoad: (Engine Initialization) Total time: 208.10 seconds
+[2017.05.15-00.26.19:316][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 8.33 seconds
+[2017.05.15-00.26.19:348][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.05.15-00.26.19:348][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.05.15-00.26.19:635][  0]LogOcInput: OculusInput pre-init called
+[2017.05.15-00.26.22:202][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.05.15-00.26.27:301][  1]LogRenderer: Reallocating scene render targets to support 980x536 (Frame:2).
+[2017.05.15-00.26.28:044][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/daviu/Documents/Ted_r2017_1/Content/' took 7.92s
+[2017.05.15-00.26.33:531][  5]LogAssetRegistry: Asset discovery search completed in 170.8902 seconds
+[2017.05.15-00.26.33:531][  5]LogCollectionManager: Rebuilt the object cache for 1 collections in 0.000011 seconds (found 0 objects)
+[2017.05.15-00.26.33:531][  5]LogCollectionManager: Fixed up redirectors for 1 collections in 0.000030 seconds (updated 0 objects)
+[2017.05.15-00.26.35:049][170]LogStreaming:Warning: Failed to open ANSI TEXT file C:/Users/daviu/Documents/Ted_r2017_1/Saved/HardwareSurvey/dxdiag.txt
+[2017.05.15-00.26.35:182][171]LogSynthBenchmark:Display: FSynthBenchmark (V0.95):  requested WorkScale=5.00
+[2017.05.15-00.26.35:182][171]LogSynthBenchmark:Display: ===============
+[2017.05.15-00.26.35:182][171]LogSynthBenchmark:Display: Main Processor:
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:          ... 0.023673 s/Run 'RayIntersect'
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:          ... 0.020603 s/Run 'Fractal'
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display: 
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   CompiledTarget_x_Bits: 64
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   UE_BUILD_SHIPPING: 0
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   UE_BUILD_TEST: 0
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   UE_BUILD_DEBUG: 0
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   TotalPhysicalGBRam: 8
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   NumberOfCores (physical): 4
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   NumberOfCores (logical): 8
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   CPU Perf Index 0: 108.2 (weight 1.00)
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   CPU Perf Index 1: 138.8 (weight 1.50)
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:  
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display: Graphics:
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   Adapter Name: 'NVIDIA GeForce GTX 1060 6GB'
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   (On Optimus the name might be wrong, memory should be ok)
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   Vendor Id: 0x10de
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   Device Id: 0x1c03
+[2017.05.15-00.26.35:403][171]LogSynthBenchmark:Display:   GPU Memory: 6101/0/4039 MB
+[2017.05.15-00.26.35:479][171]LogSynthBenchmark:Display:   GPU first test: 0.01s
+[2017.05.15-00.26.35:479][171]LogSynthBenchmark:Display:          ... 3.016 GigaPix/s, Confidence=100% 'ALUHeavyNoise' (likely to be very inaccurate)
+[2017.05.15-00.26.35:479][171]LogSynthBenchmark:Display:          ... 2.401 GigaPix/s, Confidence=100% 'TexHeavy' (likely to be very inaccurate)
+[2017.05.15-00.26.35:479][171]LogSynthBenchmark:Display:          ... 2.024 GigaPix/s, Confidence=100% 'DepTexHeavy' (likely to be very inaccurate)
+[2017.05.15-00.26.35:479][171]LogSynthBenchmark:Display:          ... 5.940 GigaPix/s, Confidence=89% 'FillOnly' (likely to be very inaccurate)
+[2017.05.15-00.26.35:480][171]LogSynthBenchmark:Display:          ... 0.570 GigaPix/s, Confidence=100% 'Bandwidth' (likely to be very inaccurate)
+[2017.05.15-00.26.35:514][171]LogSynthBenchmark:Display:   GPU second test: 0.02s
+[2017.05.15-00.26.35:514][171]LogSynthBenchmark:Display:          ... 5.461 GigaPix/s, Confidence=100% 'ALUHeavyNoise' (likely to be inaccurate)
+[2017.05.15-00.26.35:514][171]LogSynthBenchmark:Display:          ... 4.252 GigaPix/s, Confidence=100% 'TexHeavy' (likely to be inaccurate)
+[2017.05.15-00.26.35:515][171]LogSynthBenchmark:Display:          ... 3.771 GigaPix/s, Confidence=100% 'DepTexHeavy' (likely to be inaccurate)
+[2017.05.15-00.26.35:515][171]LogSynthBenchmark:Display:          ... 20.339 GigaPix/s, Confidence=100% 'FillOnly' (likely to be inaccurate)
+[2017.05.15-00.26.35:515][171]LogSynthBenchmark:Display:          ... 0.645 GigaPix/s, Confidence=100% 'Bandwidth' (likely to be inaccurate)
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:   GPU third test: 0.61s
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:          ... 9.037 GigaPix/s, Confidence=100% 'ALUHeavyNoise'
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:          ... 6.923 GigaPix/s, Confidence=100% 'TexHeavy'
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:          ... 6.519 GigaPix/s, Confidence=100% 'DepTexHeavy'
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:          ... 41.532 GigaPix/s, Confidence=100% 'FillOnly'
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:          ... 1.001 GigaPix/s, Confidence=100% 'Bandwidth'
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display: 
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:   GPU Perf Index 0: 196.4 (weight 1.00)
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:   GPU Perf Index 1: 93.0 (weight 0.10)
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:   GPU Perf Index 2: 169.5 (weight 0.10)
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:   GPU Perf Index 3: 163.1 (weight 3.00)
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:   GPU Perf Index 4: 93.4 (weight 1.00)
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:   CPUIndex: 126.6
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:   GPUIndex: 154.9
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display: 
+[2017.05.15-00.26.36:150][171]LogSynthBenchmark:Display:          ... Total Time: 0.968154 sec
+[2017.05.15-02.59.20:385][542]LogRenderer: Reallocating scene render targets to support 1208x616 (Frame:12331).
+[2017.05.15-02.59.22:807][792]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel.MainMenu_Level' with GeneratedClass '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level_C' with ClassGeneratedBy '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel.MainMenu_Level'
+[2017.05.15-02.59.22:929][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.05.15-02.59.23:207][792]PIE: New page: PIE session: MainMenu_Level (May 14, 2017, 8:59:23 PM)
+[2017.05.15-02.59.23:241][792]LogPlayLevel: Creating play world package: /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_1_MainMenu_Level
+[2017.05.15-02.59.23:365][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.122047s)
+[2017.05.15-02.59.23:372][792]LogAIModule: Creating AISystem for world MainMenu_Level
+[2017.05.15-02.59.23:389][792]LogPlayLevel: PIE: World Init took: (0.023351s)
+[2017.05.15-02.59.23:409][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level to /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_1_MainMenu_Level.MainMenu_Level (0.167985s)
+[2017.05.15-02.59.24:347][792]AdvancedFriendsInterfaceLog:Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2017.05.15-02.59.24:420][792]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.05.15-02.59.24:435][792]LogInit: FAudioDevice initialized.
+[2017.05.15-02.59.25:145][792]LogWorld: Game class is 'GeneralRules_C'
+[2017.05.15-02.59.25:347][792]LogWorld: Bringing World /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_1_MainMenu_Level.MainMenu_Level up for play (max tick rate 0) at 2017.05.14-23.59.25
+[2017.05.15-02.59.25:385][792]LogWorld: Bringing up level for play took: 0.039804
+[2017.05.15-02.59.25:430][792]LogVoice:Warning: Failed to initialize voice interface
+[2017.05.15-02.59.26:094][792]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0027 seconds. Added 11 classes and 0 folders.
+[2017.05.15-02.59.26:163][792]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.05.15-02.59.26:179][792]LogInit: WinSock: I am DESKTOP-BU05T8C (192.168.0.111:0)
+[2017.05.15-02.59.26:199][792]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.05.15-02.59.26:248][792]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2017.05.15-02.59.26:248][792]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.15-02.59.26:284][792]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.15-02.59.26:284][792]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.05.15-02.59.26:483][792]LogBlueprintUserMessages: [GeneralRules_C_0] Server: To nas regras gerais
+[2017.05.15-02.59.26:509][792]LogBlueprintUserMessages: [GameInfo_C_0] Server: VouCriarWidget
+[2017.05.15-02.59.26:573][792]LogBlueprintUserMessages: [GameInfo_C_0] Server: MenuCriado
+[2017.05.15-02.59.26:722][792]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.05.15-02.59.26:804][792]PIE: Info Play in editor start time for /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_1_MainMenu_Level 4.132
+[2017.05.15-02.59.26:807][792]PIE: New page: PIE session: MainMenu_Level (May 14, 2017, 8:59:26 PM)
+[2017.05.15-02.59.26:815][792]AdvancedFriendsInterfaceLog:Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2017.05.15-02.59.27:041][792]LogNet: Browse: 127.0.0.1//Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level
+[2017.05.15-02.59.27:041][792]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.05.15-02.59.27:042][792]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.05.15-02.59.27:076][792]LogNet: Game client on port 7777, rate 10000
+[2017.05.15-02.59.27:126][792]LogNetVersion: GetLocalNetworkVersion: CL: 3106830, ProjectName: ted_r2017, ProjectVersion: 1.0.0.0, EngineNetworkVersion: 1, GameNetworkVersion: 0, NetworkChecksum: 2271573159
+[2017.05.15-02.59.27:126][792]LogNet: UPendingNetGame::InitNetDriver: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2017.05.15-02.59.27:187][792]PIE: Info Play in editor start time for /Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level 4.515
+[2017.05.15-02.59.27:200][792]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel.MainMenu_Level' with GeneratedClass '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level_C' with ClassGeneratedBy '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel.MainMenu_Level'
+[2017.05.15-02.59.27:239][792]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 048061174131139125010100162049154207196244253148036060208044
+[2017.05.15-02.59.27:545][792]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 048061174131139125010100162049154207196244253148036060208044
+[2017.05.15-02.59.28:104][793]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.49, Realtime: 0.87. IpNetDriver_0
+[2017.05.15-02.59.28:105][793]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53714
+[2017.05.15-02.59.28:105][793]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.05.15-02.59.28:105][793]LogNet: NotifyAcceptedConnection: Name: MainMenu_Level, TimeStamp: 05/14/17 23:59:28, [UNetConnection] RemoteAddr: 127.0.0.1:53714, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.05.15-02.59.28:122][793]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53714, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.05.15-02.59.28:123][793]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-02.59.28:215][793]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.49, Realtime: 0.67. IpNetDriver_1
+[2017.05.15-02.59.28:310][794]LogNet: NotifyAcceptingChannel Control 0 server World /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_1_MainMenu_Level.MainMenu_Level: Accepted
+[2017.05.15-02.59.28:345][794]LogNet: Remote platform little endian=1
+[2017.05.15-02.59.28:349][794]LogNet: This platform little endian=1
+[2017.05.15-02.59.28:379][794]LogVoice:Warning: Failed to initialize voice interface
+[2017.05.15-02.59.28:495][795]LogNet: Login request: /Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level?Name=DESKTOP-BU05T8C-A808D99D48C9736BE28F0688570666B7 userId: DESKTOP-BU05T8C-A808D99D48C9736BE28F0688570666B7
+[2017.05.15-02.59.28:497][795]LogNet: Welcomed by server (Level: /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_1_MainMenu_Level, Game: /Game/TED_Specific/GeneralRules.GeneralRules_C)
+[2017.05.15-02.59.28:542][795]LogLoad: LoadMap: 127.0.0.1//Game/TED_Specific/Multiplayer_Stuff/UEDPIE_1_MainMenu_Level?game=/Game/TED_Specific/GeneralRules.GeneralRules_C
+[2017.05.15-02.59.28:693][795]Cmd: MEM
+[2017.05.15-02.59.28:957][795]LogMemory: Platform Memory Stats for Windows
+[2017.05.15-02.59.28:957][795]LogMemory: Process Physical Memory: 414.32 MB used, 1016.52 MB peak
+[2017.05.15-02.59.28:957][795]LogMemory: Process Virtual Memory: 1404.09 MB used, 1452.44 MB peak
+[2017.05.15-02.59.28:957][795]LogMemory: Physical Memory: 6957.93 MB used, 8076.38 MB total
+[2017.05.15-02.59.28:957][795]LogMemory: Virtual Memory: 2230.16 MB used, 134217728.00 MB total
+[2017.05.15-02.59.28:957][795]LogMemory: 
+[2017.05.15-02.59.28:957][795]Allocator Stats for TBB: (not implemented)
+[2017.05.15-02.59.29:116][795]LogWorld: PIE: Copying PIE streaming level from /Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level to /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_2_MainMenu_Level.MainMenu_Level. OwningWorld: <null>
+[2017.05.15-02.59.29:119][795]LogAIModule: Creating AISystem for world MainMenu_Level
+[2017.05.15-02.59.29:137][795]LogWorld: Bringing World /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_2_MainMenu_Level.MainMenu_Level up for play (max tick rate 0) at 2017.05.14-23.59.29
+[2017.05.15-02.59.29:137][795]LogWorld: Bringing up level for play took: 0.001910
+[2017.05.15-02.59.29:138][795]LogLoad: Took 0.596363 seconds to LoadMap(/Game/TED_Specific/Multiplayer_Stuff/UEDPIE_1_MainMenu_Level)
+[2017.05.15-02.59.29:276][796]LogRenderer: Reallocating scene render targets to support 1280x720 (Frame:12580).
+[2017.05.15-02.59.29:279][796]LogNet: Client netspeed is 10000
+[2017.05.15-02.59.29:279][796]LogNet: Join request: /Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level?Name=DESKTOP-BU05T8C-A808D99D48C9736BE28F0688570666B7?SplitscreenCount=1
+[2017.05.15-02.59.29:284][796]LogOnline:Warning: NULL: No game present to join for session (Game)
+[2017.05.15-02.59.29:431][796]LogNet: Join succeeded: DESKTOP-BU05T8C-A808
+[2017.05.15-02.59.29:440][796]LogCharacterMovement:Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.888898 > MaxSimulationTimeStep (0.050) for 'Personagem_Generico_BP_C_1', movement 'Falling'
+[2017.05.15-02.59.29:440][796]LogBlueprintUserMessages: [Player_Controller_BP_C_1] Server: Hello
+[2017.05.15-02.59.29:591][797]LogOnline:Warning: NULL: No game present to join for session (Game)
+[2017.05.15-02.59.29:591][797]LogOnline:Warning: NULL: No game present to join for session (Game)
+[2017.05.15-02.59.29:613][797]LogBlueprintUserMessages: [GameInfo_C_1] Client 1: VouCriarWidget
+[2017.05.15-02.59.29:615][797]LogBlueprintUserMessages: [GameInfo_C_1] Client 1: MenuCriado
+[2017.05.15-02.59.29:748][798]LogCharacterMovement:Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.088811 > MaxSimulationTimeStep (0.050) for 'Personagem_Generico_BP_C_1', movement 'Falling'
+[2017.05.15-02.59.29:880][804]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Client 1: Hello
+[2017.05.15-02.59.35:071][224]LogGameMode:Display: Match State Changed from InProgress to LeavingMap
+[2017.05.15-02.59.35:072][224]LogGameState: Match State Changed from InProgress to LeavingMap
+[2017.05.15-02.59.35:073][224]LogNet: Browse: /Game/TED_Specific/Scene_Assets/Mapa_01/Mapa_01??listen?Game=/Game/TED_Specific/DeathMatch.DeathMatch_C
+[2017.05.15-02.59.35:073][224]LogLoad: LoadMap: /Game/TED_Specific/Scene_Assets/Mapa_01/Mapa_01??listen?Game=/Game/TED_Specific/DeathMatch.DeathMatch_C
+[2017.05.15-02.59.35:073][224]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2017.05.15-02.59.35:073][224]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2017.05.15-02.59.35:096][224]LogBlueprintUserMessages: [Player_Controller_BP_C_1] Server: Morreu
+[2017.05.15-02.59.35:161][224]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:53714, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Player_Controller_BP_C_1, Owner: Player_Controller_BP_C_1
+[2017.05.15-02.59.35:161][224]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53714, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Player_Controller_BP_C_1, Owner: Player_Controller_BP_C_1, Channels: 11, Time: 2017.05.15-02.59.35
+[2017.05.15-02.59.35:161][224]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53714, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: Player_Controller_BP_C_1, Owner: Player_Controller_BP_C_1
+[2017.05.15-02.59.35:195][224]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2017.05.15-02.59.35:220][224]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Morreu
+[2017.05.15-02.59.35:405][224]Cmd: MEM
+[2017.05.15-02.59.35:424][224]LogMemory: Platform Memory Stats for Windows
+[2017.05.15-02.59.35:424][224]LogMemory: Process Physical Memory: 444.32 MB used, 1016.52 MB peak
+[2017.05.15-02.59.35:424][224]LogMemory: Process Virtual Memory: 1406.51 MB used, 1584.01 MB peak
+[2017.05.15-02.59.35:424][224]LogMemory: Physical Memory: 6949.78 MB used, 8076.38 MB total
+[2017.05.15-02.59.35:424][224]LogMemory: Virtual Memory: 2348.60 MB used, 134217728.00 MB total
+[2017.05.15-02.59.35:424][224]LogMemory: 
+[2017.05.15-02.59.35:424][224]Allocator Stats for TBB: (not implemented)
+[2017.05.15-02.59.52:160][224]LogAIModule: Creating AISystem for world Mapa_01
+[2017.05.15-02.59.58:047][224]LogWorld: Game class is 'DeathMatch_C'
+[2017.05.15-02.59.58:048][224]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.05.15-02.59.58:048][224]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.05.15-02.59.58:049][224]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2017.05.15-03.00.00:238][224]LogWorld: Bringing World /Game/TED_Specific/Scene_Assets/Mapa_01/UEDPIE_1_Mapa_01.Mapa_01 up for play (max tick rate 0) at 2017.05.15-00.00.00
+[2017.05.15-03.00.00:239][224]LogWorld: Bringing up level for play took: 2.188919
+[2017.05.15-03.00.00:242][224]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.15-03.00.00:242][224]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.15-03.00.00:242][224]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.05.15-03.00.00:313][224]LogOnline:Warning: NULL: Can't start an online session (Game) in state InProgress
+[2017.05.15-03.00.00:336][224]LogBlueprintUserMessages: [DeathMatch_C_0] Server: To no Deathmatch
+[2017.05.15-03.00.00:337][224]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.05.15-03.00.00:337][224]LogLoad: Took 25.263968 seconds to LoadMap(/Game/TED_Specific/Scene_Assets/Mapa_01/Mapa_01)
+[2017.05.15-03.00.00:419][224]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.01, Realtime: 25.56. IpNetDriver_1
+[2017.05.15-03.00.00:419][224]LogNet:Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.05.15-03.00.00:419][224]LogNet:Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.05.15-03.00.00:451][224]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.05.15-03.00.00:487][224]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: Player_Controller_BP_C_0, Owner: Player_Controller_BP_C_0, Channels: 11, Time: 2017.05.15-03.00.00
+[2017.05.15-03.00.00:487][224]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: Player_Controller_BP_C_0, Owner: Player_Controller_BP_C_0
+[2017.05.15-03.00.00:488][224]LogNet:Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.05.15-03.00.00:488][224]LogNet:Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.05.15-03.00.00:488][224]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.05.15-03.00.01:344][225]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 26.28, Realtime: 1.01. IpNetDriver_2
+[2017.05.15-03.00.01:628][225]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.01:680][225]LogCharacterMovement:Warning: GetSimulationTimeStep() - Max iterations 8 hit while remaining time 0.087757 > MaxSimulationTimeStep (0.050) for 'Personagem_Generico_BP_C_0', movement 'Walking'
+[2017.05.15-03.00.01:915][225]LogNet: Browse: /Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level?closed
+[2017.05.15-03.00.01:915][225]LogNet: Failed; returning to Entry
+[2017.05.15-03.00.01:916][225]LogLoad: LoadMap: /Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level?closed
+[2017.05.15-03.00.01:916][225]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2017.05.15-03.00.01:916][225]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2017.05.15-03.00.01:916][225]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2017.05.15-03.00.02:010][225]Cmd: MEM
+[2017.05.15-03.00.02:031][225]LogMemory: Platform Memory Stats for Windows
+[2017.05.15-03.00.02:031][225]LogMemory: Process Physical Memory: 683.35 MB used, 1016.52 MB peak
+[2017.05.15-03.00.02:031][225]LogMemory: Process Virtual Memory: 1710.97 MB used, 1715.04 MB peak
+[2017.05.15-03.00.02:031][225]LogMemory: Physical Memory: 6846.83 MB used, 8076.38 MB total
+[2017.05.15-03.00.02:032][225]LogMemory: Virtual Memory: 2529.66 MB used, 134217728.00 MB total
+[2017.05.15-03.00.02:032][225]LogMemory: 
+[2017.05.15-03.00.02:032][225]Allocator Stats for TBB: (not implemented)
+[2017.05.15-03.00.02:032][225]LogPlayLevel: Creating play world package: /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_2_MainMenu_Level
+[2017.05.15-03.00.02:034][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001848s)
+[2017.05.15-03.00.02:034][225]LogAIModule: Creating AISystem for world MainMenu_Level
+[2017.05.15-03.00.02:035][225]LogPlayLevel: PIE: World Init took: (0.001300s)
+[2017.05.15-03.00.02:035][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level to /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_2_MainMenu_Level.MainMenu_Level (0.003498s)
+[2017.05.15-03.00.02:035][225]LogWorld: Game class is 'GeneralRules_C'
+[2017.05.15-03.00.02:038][225]LogWorld: Bringing World /Game/TED_Specific/Multiplayer_Stuff/UEDPIE_2_MainMenu_Level.MainMenu_Level up for play (max tick rate 0) at 2017.05.15-00.00.02
+[2017.05.15-03.00.02:039][225]LogWorld: Bringing up level for play took: 0.001908
+[2017.05.15-03.00.02:040][225]LogGameMode: Warning - PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2017.05.15-03.00.02:041][225]LogGameMode:Display: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.15-03.00.02:041][225]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2017.05.15-03.00.02:041][225]LogGameMode:Display: Match State Changed from WaitingToStart to InProgress
+[2017.05.15-03.00.02:043][225]LogBlueprintUserMessages: [GeneralRules_C_0] Server: To nas regras gerais
+[2017.05.15-03.00.02:043][225]LogBlueprintUserMessages: [GameInfo_C_1] Server: VouCriarWidget
+[2017.05.15-03.00.02:044][225]LogBlueprintUserMessages: [GameInfo_C_1] Server: MenuCriado
+[2017.05.15-03.00.02:045][225]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2017.05.15-03.00.02:045][225]LogLoad: Took 0.129324 seconds to LoadMap(/Game/TED_Specific/Multiplayer_Stuff/UEDPIE_2_MainMenu_Level)
+[2017.05.15-03.00.02:447][226]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.07:966][759]LogBlueprintUserMessages: [Personagem_Generico_BP_C_0] Server: Morri
+[2017.05.15-03.00.08:021][759]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Morreu
+[2017.05.15-03.00.08:051][761]LogBlueprintUserMessages: [DeathMatch_C_0] Server: Hello
+[2017.05.15-03.00.08:081][761]LogBlueprintUserMessages: [DeathMatch_C_0] Server: I WILL SURVIVE!
+[2017.05.15-03.00.08:088][762]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.09:339][886]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.11:180][ 99]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.12:599][263]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.19:856][124]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.20:522][203]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.21:875][364]LogBlueprintUserMessages: [RedTed_BP-CH-_C_0] Server: ResettingCombo
+[2017.05.15-03.00.25:128][736]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.27:979][ 56]LogBlueprintUserMessages: [RedTed_BP-CH-_C_0] Server: ResettingCombo
+[2017.05.15-03.00.30:084][306]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.36:507][ 63]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.37:664][201]LogBlueprintUserMessages: [RedTed_BP-CH-_C_0] Server: ResettingCombo
+[2017.05.15-03.00.45:720][159]LogBlueprintUserMessages: [RedTed_BP-CH-_C_0] Server: ResettingCombo
+[2017.05.15-03.00.48:676][512]LogBlueprintUserMessages: [Player_Controller_BP_C_0] Server: Hello
+[2017.05.15-03.00.49:758][634]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel.MainMenu_Level' with GeneratedClass '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level_C' with ClassGeneratedBy '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel.MainMenu_Level'
+[2017.05.15-03.00.49:993][634]AdvancedFriendsInterfaceLog:Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2017.05.15-03.00.50:093][634]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.05.15-03.00.50:217][634]AdvancedFriendsInterfaceLog:Warning: UAdvancedFriendsInstance Failed to get voice interface!
+[2017.05.15-03.00.50:407][634]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.05.15-03.00.50:408][634]LogPlayLevel:Display: Shutting down PIE online subsystems
+[2017.05.15-03.00.50:460][634]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel' has LevelScriptBlueprint '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel.MainMenu_Level' with GeneratedClass '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level_C' with ClassGeneratedBy '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level.MainMenu_Level:PersistentLevel.MainMenu_Level'
+[2017.05.15-03.00.50:525][634]LogExit: GameNetDriver None shut down
+[2017.05.15-03.00.50:744][635]LogPlayLevel:Display: Destroying online subsystem :Context_3
+[2017.05.15-03.00.50:744][635]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.05.15-03.00.50:744][635]LogPlayLevel:Display: Destroying online subsystem :Context_2
+[2017.05.15-03.00.50:744][635]LogOnline:Display: NULL: FOnlineSubsystemNull::Shutdown()
+[2017.05.15-03.00.55:679][761]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0346 seconds. Added 112 classes and 0 folders.
+[2017.05.15-03.13.22:960][819]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TED_Specific/Multiplayer_Stuff/MainMenu_Level' took 0.261
+[2017.05.15-03.13.23:322][819]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TED_Specific/Character_Assets/Personagem_Generico_BP] ([1] browsable assets)...
+[2017.05.15-03.13.23:421][819]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TED_Specific/Character_Assets/Personagem_Generico_BP.Personagem_Generico_BP]
+[2017.05.15-03.13.23:421][819]OBJ SavePackage: Finished generating thumbnails for package [/Game/TED_Specific/Character_Assets/Personagem_Generico_BP]
+[2017.05.15-03.13.27:519][819]LogSavePackage: Save=530.83ms
+[2017.05.15-03.13.27:519][819]LogSavePackage: Moving '../../../../../../Users/daviu/Documents/Ted_r2017_1/Saved/Personagem_Generico_BP_Auto1334EB1FF44FCF9C5F4344F933B8BE1C9.tmp' to '../../../../../../Users/daviu/Documents/Ted_r2017_1/Saved/Autosaves/Game/TED_Specific/Character_Assets/Personagem_Generico_BP
